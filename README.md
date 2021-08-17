@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo. Seja bem vindo ao  meu repositório! <img align="right" width="200px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
+# Olá, eu sou Rodrigo! <img align="right" width="400px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 
 ## :game_die: Apostas
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
