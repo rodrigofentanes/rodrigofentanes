@@ -26,7 +26,7 @@
   <img align="center" alt="fentanes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fentanes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fentanes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="fentanes-beard" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fred-beard-gifs&psig=AOvVaw3jkh86dTiaipgrnlGbSRa2&ust=1629254432765000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCLvvSDt_ICFQAAAAAdAAAAABAD">
+  <img align="right" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 </div>
   
   ##
