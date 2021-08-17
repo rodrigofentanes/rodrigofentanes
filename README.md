@@ -6,13 +6,18 @@
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
-- :medal_military: Habilidades: 
+- :medal_military: Habilidades: <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
+  - Linguagens de programação:
+  <div>
+    <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  </div>
 
 <div>
   <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fentanes-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="fentanes-linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="fentanes-ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
