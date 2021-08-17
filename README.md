@@ -7,13 +7,15 @@
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :medal_military: Habilidades: <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
-  - Linguagens de programação: <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  - Linguagens de marcação e estilização: <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  - Banco de dados: <img align="center" alt="fentanes-sqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  - Frameworks: <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  - Sistemas operacionais: <img align="center" alt="fentanes-linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> <img align="center" alt="fentanes-ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  - Controle de versão: <img align="center" alt="fentanes-git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <img align="center" alt="fentanes-github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  - CRM: <img align="center" alt="fentanes-salesforce" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+|  |  |
+| :-: | :- |
+| Linguagens de programação | <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> |
+| Linguagens de marcação e estilização | <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> |
+| Banco de dados | <img align="center" alt="fentanes-sqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> |
+| Frameworks | <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
+| Sistemas operacionais | <img align="center" alt="fentanes-linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> <img align="center" alt="fentanes-ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> |
+| Controle de versão | <img align="center" alt="fentanes-git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <img align="center" alt="fentanes-github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> |
+| CRM | <img align="center" alt="fentanes-salesforce" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> |
 
 <div align="left">
   <br>
