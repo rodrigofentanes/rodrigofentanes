@@ -3,7 +3,7 @@
 ## :game_die: Apostas
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :diamonds: [Meus estudos](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
-- :hearts: Estudando Java (Desenvolvendo habilidades de Javeiro 😄)
+- :hearts: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :spades: Contate-me: https://www.linkedin.com/in/rodrigofentanes/
 
 ## :black_joker: Curiosidades sobre mim:
