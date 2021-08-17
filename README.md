@@ -7,6 +7,10 @@
 
 ## :heartbeat: Minhas habilidades 
 
+<style>
+  #foo {color: red}
+</style>
+
 <div align="left" width=100% >
   <table>
     <thead>
@@ -20,7 +24,7 @@
         <td>
           Linguagens de programação
         </td>
-        <td color="blue">
+        <td id="foo">
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
         </td>
