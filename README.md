@@ -18,6 +18,8 @@
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="">
 <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> -->
 </div>
 
