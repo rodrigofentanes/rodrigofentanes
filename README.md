@@ -7,12 +7,12 @@
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 -  <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
-<div align="center">
-  <table width=100%>
+<div align="center" width=100%>
+  <table>
     <thead>
       <tr>
-        <th>Habilidade</th>
-        <th>:medal_military:</th>
+        <th>Habilidades</th>
+        <th>:medal_military: Emblemas</th>
       </tr>
     </thead>
     <tbody>
