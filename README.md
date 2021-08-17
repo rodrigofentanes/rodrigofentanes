@@ -7,7 +7,7 @@
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :medal_military: Habilidades: <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
-|  |  |
+| a | c |
 | :-: | :- |
 | Linguagens de programação | <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> |
 | Linguagens de marcação e estilização | <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> |
