@@ -24,14 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
-
-<div>
-
-  ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <br>
 <br>
   
@@ -45,3 +37,11 @@
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
 - :weight_lifting_man: Não sinto meu dia render enquanto não pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
+  
+##
+
+<div>
+
+  ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
+
+</div>
