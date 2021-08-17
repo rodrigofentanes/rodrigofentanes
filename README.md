@@ -8,18 +8,17 @@
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :medal_military: Habilidades: 
 
-[height]: valor
-[weigth]: 60
 <div>
-  <p> [weigth] [height] </p>
   <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fentanes-HTML" height="[height]" width=[weigth] src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fentanes-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fentanes-React" height="50" width="60" src="">
-  <img align="center" alt="fentanes-React" height="50" width="60" src="">
-  <img align="center" alt="fentanes-React" height="50" width="60" src="">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="fentanes-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> -->
 </div>
 
 <div align="left">
