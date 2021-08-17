@@ -7,6 +7,8 @@
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 
+## Minhas habilidades
+
 <div align="center" width=100%>
   <table>
     <thead>
