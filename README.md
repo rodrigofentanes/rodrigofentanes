@@ -7,7 +7,7 @@
 
 ## :heartbeat: Minhas habilidades 
 
-<div align="left" width=100%>
+<div align="left" width=100% style="background-color: #ff0a70;">
   <table>
     <thead>
       <tr>
