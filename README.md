@@ -8,8 +8,8 @@
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :medal_military: Habilidades: 
 
-[height]: 60
-[weigth]: 60
+[height](60)
+[weigth](60)
 <div>
   <p>[weigth]</p>
   <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
