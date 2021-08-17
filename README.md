@@ -13,32 +13,29 @@
       <tr>
         <th>Nicho</th>
         <th>Ícone</th>
-        <th></th>
-        <th></th>
-        <th></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+          Linguagens de programação
+        </td>
+        <td>
+          <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+          <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+        </td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+        </td>
+        <td>
+        </td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+        </td>
+        <td>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -46,7 +43,7 @@
 
 | Nicho | Ícone |
 | -: | :- |
-| Linguagens de programação | <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> |
+|  |  |
 | Linguagens de marcação e estilização | <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> |
 | Banco de dados | <img align="center" alt="fentanes-sqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> |
 | Frameworks | <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
