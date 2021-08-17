@@ -104,17 +104,19 @@
 
 <br>
   
-## Sobre mim:
+## Conheça-me melhor:
 
 - :four_leaf_clover: Amo minha família e programas caseiros são sempre bem vindos!!
 - :earth_americas: Quando saio, gosto de turistar. Dai conhecer lugares novos, pontos turísticos e culinária local, nem que seja em minha própria cidade, são programas perfeitos para os momentos de lazer!
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
 - :weight_lifting_man: Um dia só vira um "DIA" mesmo quando eu pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
-- Siga-me nas redes: 
+- Siga-me nas redes sociais: 
 
-<a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center>
+  <a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
   
 ##
 
