@@ -113,7 +113,7 @@
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
 - Siga-me nas redes sociais: 
 
-<div align="center>
+<div align="center">
   <a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
