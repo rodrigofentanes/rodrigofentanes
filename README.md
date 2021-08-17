@@ -28,7 +28,15 @@
 <br>
 <br>
 
-## :black_joker: Curiosidades sobre mim:
+##
+
+<div>
+
+  ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## Curiosidades sobre mim:
 <div> 
    <img align="right" width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 <div>
@@ -38,11 +46,3 @@
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
 - :weight_lifting_man: Não sinto meu dia render enquanto não pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
- 
-##
-
-  <div>
-  
-  ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
