@@ -1,6 +1,4 @@
-# Olá, eu sou Rodrigo! 
-<a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+# Olá :wave: eu sou Rodrigo! 
 
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
@@ -8,7 +6,7 @@
 
 <br>
 
-## Minhas habilidades
+## :heartbeat: Minhas habilidades 
 
 <div align="center" width=100%>
   <table>
@@ -106,7 +104,7 @@
 <br>
 <br>
   
-## Curiosidades sobre mim:
+## Sobre mim:
 <div> 
    <img align="right" width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 <div>
@@ -116,6 +114,10 @@
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
 - :weight_lifting_man: Um dia só vira um "DIA" mesmo quando eu pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
+- Siga-me nas redes: 
+
+<a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ##
 
