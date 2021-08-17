@@ -8,6 +8,42 @@
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
 - :medal_military: Habilidades: <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
 <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nicho</th>
+        <th>Ícone</th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 | Nicho | Ícone |
 | -: | :- |
 | Linguagens de programação | <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> |
@@ -17,7 +53,7 @@
 | Sistemas operacionais | <img align="center" alt="fentanes-linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> <img align="center" alt="fentanes-ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> |
 | Controle de versão | <img align="center" alt="fentanes-git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <img align="center" alt="fentanes-github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> |
 | CRM | <img align="center" alt="fentanes-salesforce" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> |
-</div>
+
   
 <div align="left">
   <br>
