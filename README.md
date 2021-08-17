@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo. Seja bem vindo ao  meu repositório! 
+# Olá, eu sou Rodrigo. Seja bem vindo ao  meu repositório! <img align="right" widht="40px" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 
 ## :game_die: Apostas
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
@@ -14,7 +14,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofentanes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="fentanes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fentanes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="fentanes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="fentanes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fentanes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fentanes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="fentanes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 
 ## :black_joker: Curiosidades sobre mim:
@@ -25,16 +33,7 @@
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="fentanes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fentanes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="fentanes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fentanes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fentanes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fentanes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="fentanes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
-</div>
+
   
   ##
  
