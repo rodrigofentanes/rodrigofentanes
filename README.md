@@ -1,4 +1,4 @@
-# Olá :wave: eu sou Rodrigo! <div align="right"><img width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif"><div>
+# Olá :wave: eu sou Rodrigo! <div align="right"><img width="150px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif"><div>
 
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
