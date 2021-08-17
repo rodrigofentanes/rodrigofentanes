@@ -2,9 +2,11 @@
 <a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
-- :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
-- :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
+- :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
+- :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
+- :seedling: Provavelmente, neste exato momento, estou me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
+
+<br>
 
 ## Minhas habilidades
 
