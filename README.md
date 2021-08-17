@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## :game_die: Sobre mim:
-- :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
-- :diamonds: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
-- :hearts: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
-- :spades: Habilidades: <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
+- :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
+- :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
+- :medal_military: Habilidades: <img align="center" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fentanes-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,10 +31,10 @@
    <img align="right" width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
 <div>
 
-- :shell: Amo minha família e programas caseiros são sempre bem vindos!!
+- :four_leaf_clover: Amo minha família e programas caseiros são sempre bem vindos!!
 - :earth_americas: Quando saio, gosto de turistar. Dai conhecer lugares novos, pontos turísticos e culinária local, nem que seja em minha própria cidade, são programas perfeitos para o fim de semana.
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
-- :bicyclist: Não sinto meu dia render enquanto não pratico alguma atividade física.
+- :weight_lifting_man: Não sinto meu dia render enquanto não pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
  
 ##
