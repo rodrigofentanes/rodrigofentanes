@@ -1,5 +1,9 @@
 # Olá :wave: eu sou Rodrigo! 
 
+<div> 
+   <img align="right" width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
+<div>
+
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
 - :seedling: Estou me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
@@ -105,9 +109,6 @@
 <br>
   
 ## Sobre mim:
-<div> 
-   <img align="right" width="280px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
-<div>
 
 - :four_leaf_clover: Amo minha família e programas caseiros são sempre bem vindos!!
 - :earth_americas: Quando saio, gosto de turistar. Dai conhecer lugares novos, pontos turísticos e culinária local, nem que seja em minha própria cidade, são programas perfeitos para os momentos de lazer!
