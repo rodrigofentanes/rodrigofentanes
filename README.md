@@ -40,7 +40,8 @@
           Banco de dados
         </td>
         <td>
-          <img align="center" alt="fentanes-sqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+          <img align="center" alt="fentanes-SQL" height="50" width="60" src="https://image.flaticon.com/icons/png/512/29/29165.png">
+          <img align="center" alt="fentanes-SQLServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
         </td>
       </tr>
       <tr>
@@ -48,6 +49,7 @@
           Frameworks
         </td>
         <td>
+          <img align="center" alt="fentanes-bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
           <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
       </tr>
@@ -67,6 +69,7 @@
         <td>
           <img align="center" alt="fentanes-git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
           <img align="center" alt="fentanes-github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+          <img align="center" alt="fentanes-bitbucket" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg">
         </td>
       </tr>
       <tr>
