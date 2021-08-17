@@ -1,5 +1,4 @@
-# Olá :wave: eu sou Rodrigo! <div align="right"><img width="150px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif"><div>
-
+# Olá :wave: eu sou Rodrigo!
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
 - :seedling: Estou me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
@@ -92,16 +91,17 @@
     </tbody>
   </table>
 </div>
-  
+
+<br>
+
+##
+
 <div align="left">
-  <br>
-  <br>
   <a href="https://github.com/rodrigofentanes?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofentanes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
 <br>
   
 ## Sobre mim:
