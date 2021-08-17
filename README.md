@@ -6,7 +6,7 @@
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
--  <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
+
 <div align="center" width=100%>
   <table>
     <thead>
@@ -77,6 +77,14 @@
           <img align="center" alt="fentanes-salesforce" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
         </td>
       </tr>
+<!--       <tr>
+        <td>
+          HABILIDADE
+        </td>
+        <td>
+          <img align="center" alt="fentanes-NOMEDOEMBLEMA" height="50" width="60" src="LINK">
+        </td>
+      </tr> -->
     </tbody>
   </table>
 </div>
