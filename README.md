@@ -1,5 +1,11 @@
 # Olá 👋 seja bem vindo!
 
+<div>
+  <a href="https://github.com/rodrigofentanes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofentanes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## :game_die: Apostas
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :diamonds: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
@@ -13,11 +19,7 @@
 - :bicyclist: Não sinto meu dia render enquanto não pratico alguma atividade física.
 - :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
 
-<div>
-  <a href="https://github.com/rodrigofentanes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofentanes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="fentanes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fentanes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
