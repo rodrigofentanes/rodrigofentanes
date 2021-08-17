@@ -6,13 +6,13 @@
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :owl: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :seedling: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
-- :medal_military: Habilidades: <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
+-  <!--   <img align="center" alt="fentanes-React" height="50" width="60" src=""> --> 
 <div align="center">
   <table>
     <thead>
       <tr>
-        <th>Nicho</th>
-        <th>Ícone</th>
+        <th>Habilidade</th>
+        <th>:medal_military: Habilidades:</th>
       </tr>
     </thead>
     <tbody>
@@ -27,8 +27,12 @@
       </tr>
       <tr>
         <td>
+          Linguagens de marcação e estilização
         </td>
         <td>
+          <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+          <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+          <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
         </td>
       </tr>
       <tr>
@@ -41,10 +45,8 @@
   </table>
 </div>
 
-| Nicho | Ícone |
-| -: | :- |
+
 |  |  |
-| Linguagens de marcação e estilização | <img align="center" alt="fentanes-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fentanes-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> |
 | Banco de dados | <img align="center" alt="fentanes-sqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> |
 | Frameworks | <img align="center" alt="fentanes-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
 | Sistemas operacionais | <img align="center" alt="fentanes-linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> <img align="center" alt="fentanes-ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> |
