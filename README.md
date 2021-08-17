@@ -94,7 +94,7 @@
 
 <br>
 
-##
+## :chart_with_upwards_trend: Minhas estatísticas
 
 <div align="left">
   <a href="https://github.com/rodrigofentanes?tab=repositories">
