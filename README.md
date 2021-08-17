@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo! <img align="right" width="200px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
+# Olá, eu sou Rodrigo! 
 
 ## :game_die: Apostas
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
@@ -24,7 +24,11 @@
 </div>
 
 
-## :black_joker: Curiosidades sobre mim:
+## 
+  
+<div> 
+  :black_joker: Curiosidades sobre mim: <img align="right" width="200px;" alt="fentanes-beard" src="https://c.tenor.com/E--_3Up1FmwAAAAC/beard-alone.gif">
+<div>
 - :shell: Amo minha família e programas caseiros são sempre bem vindos!!
 - :earth_americas: Quando saio, gosto de turistar. Dai conhecer lugares novos, pontos turísticos e culinária local, nem que seja em minha própria cidade, são programas perfeitos para o fim de semana.
 - :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
@@ -36,7 +40,7 @@
   
   ##
  
-<div>
+
   
  
   ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
