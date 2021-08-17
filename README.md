@@ -13,7 +13,7 @@
   <table>
     <thead>
       <tr>
-        <th>Habilidades</th>
+        <th>Escopo</th>
         <th>:medal_military: Emblemas</th>
       </tr>
     </thead>
