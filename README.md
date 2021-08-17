@@ -1,4 +1,10 @@
-# Olá 👋 seja bem vindo!
+# Olá, eu sou Rodrigo. Seja bem vindo ao  meu repositório! 
+
+## :game_die: Apostas
+- :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
+- :diamonds: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
+- :hearts: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
+- :spades: Contate-me: 
 
 <div>
   <a href="https://github.com/rodrigofentanes">
@@ -6,11 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## :game_die: Apostas
-- :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
-- :diamonds: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
-- :hearts: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
-- :spades: Contate-me: 
+
 
 ## :black_joker: Curiosidades sobre mim:
 - :shell: Amo minha família e programas caseiros são sempre bem vindos!!
