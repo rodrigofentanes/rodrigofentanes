@@ -20,7 +20,7 @@
         <td>
           Linguagens de programação
         </td>
-        <td style="background-color: blue;">
+        <td color="blue">
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
         </td>
