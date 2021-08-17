@@ -7,7 +7,7 @@
 
 ## :heartbeat: Minhas habilidades 
 
-<div align="center" width=100%>
+<div align="left" width=100%>
   <table>
     <thead>
       <tr>
