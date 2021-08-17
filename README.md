@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/rodrigofentaness" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigofentanes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## :game_die: Detalhes
+## :game_die: Sobre mim:
 - :clubs: Atualmente trabalho com Salesforce e suas tecnologias adjacentes
 - :diamonds: Sempre estou atualizando [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento)
 - :hearts: Me aprofundando em Java (Desenvolvendo habilidades de Javeiro 😄)
