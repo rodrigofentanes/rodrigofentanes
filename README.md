@@ -21,7 +21,7 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+          <img align="center" title="JavaScript" alt="fentanes-Js" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> 
           <img align="center" title="Java" alt="fentanes-Java" height="60" width="60" src="https://i.stack.imgur.com/Lqh07.png">
         </td>
       </tr>
