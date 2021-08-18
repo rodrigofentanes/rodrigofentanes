@@ -22,7 +22,7 @@
         </td>
         <td>
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-          <img align="center" title="Java" alt="fentanes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+          <img align="center" title="Java" alt="fentanes-Java" height="50" width="60" src="https://lh3.googleusercontent.com/proxy/-1PF_3aY3oWRpOxStflM2c_FLwPT5R5qlMzhklJkPKMFbwB9MTVKHFZut_9lXHd4Zn7Wzw72EbENASos8HB7QtdikPVwvQTYL1Q">
         </td>
       </tr>
       <tr>
