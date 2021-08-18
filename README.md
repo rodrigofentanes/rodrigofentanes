@@ -22,7 +22,7 @@
         </td>
         <td>
           <img align="center" title="JavaScript" alt="fentanes-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-          <img align="center" title="Java" alt="fentanes-Java" height="60" width="60" src="https://images-na.ssl-images-amazon.com/images/I/6120nSBcsCL.png">
+          <img align="center" title="Java" alt="fentanes-Java" height="60" width="60" src="https://i.stack.imgur.com/Lqh07.png">
         </td>
       </tr>
       <tr>
