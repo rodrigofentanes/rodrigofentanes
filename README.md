@@ -42,7 +42,6 @@
         </td>
         <td>
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="60" src="https://www.ricardoarrigoni.com/wp-content/uploads/2014/01/SQL.png">
-          <img align="center" title="SQLServer" alt="fentanes-SQLServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
         </td>
       </tr>
       <tr>
