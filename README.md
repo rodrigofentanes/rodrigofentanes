@@ -69,7 +69,7 @@
         </td>
         <td>
           <img align="center" title="Git" alt="fentanes-git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-          <img align="center" title="GitHub" alt="fentanes-github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+          <img align="center" title="GitHub" alt="fentanes-github" height="50" width="60" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
         </td>
       </tr>
       <tr>
