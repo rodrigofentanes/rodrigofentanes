@@ -77,7 +77,6 @@
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
             <span>
               :1st_place_medal:
-              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
