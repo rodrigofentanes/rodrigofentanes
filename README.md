@@ -43,24 +43,24 @@
               :small_red_triangle:
             </span> 
             &emsp;
-          <img align="center" title="ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
+          <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
             <span>
               :3rd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="c++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
+          <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
             <span>
-              :3rd_place_medal:
+              :1st_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="python" alt="fentanes-python" height="50" width="50" src="img/python.png">
+          <img align="center" title="Python" alt="fentanes-python" height="50" width="50" src="img/python.png">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="php" alt="fentanes-php" height="50" width="50" src="img/php.svg">
+          <img align="center" title="Php" alt="fentanes-php" height="50" width="50" src="img/php.svg">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
             </span> 
             &emsp;
         </td>
@@ -79,6 +79,7 @@
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
             <span>
               :1st_place_medal:
+              :small_red_triangle:
             </span> 
             &emsp;
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
@@ -107,7 +108,7 @@
             &emsp;
           <img align="center" title="MySQL" alt="fentanes-MySQL" height="50" width="50" src="img/mysql.png">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
             </span> 
             &emsp;
           <img align="center" title="SqlServer" alt="fentanes-SqlServer" height="50" width="50" src="img/sqlserver.png">
@@ -132,26 +133,36 @@
               :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
+          <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
+          <img align="center" title="Codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="laravel" alt="fentanes-laravel" height="50" width="50" src="img/laravel.png">
+          <img align="center" title="Laravel" alt="fentanes-laravel" height="50" width="50" src="img/laravel.png">
             <span>
-              :3rd_place_medal:
+              :2nd_place_medal:
+            </span> 
+            &emsp;
+          <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
+            <span>
+              :2nd_place_medal:
+            </span> 
+            &emsp;
+          <img align="center" title="Django" alt="fentanes-django" height="50" width="50" src="img/django.png">
+            <span>
+              :2nd_place_medal:
             </span> 
             &emsp;
         </td>
       </tr>
       <tr>
         <td>
-          Sistemas operacionais
+          Sistemas
         </td>
         <td>
           <img align="center" title="Linux" alt="fentanes-linux" height="50" width="50" src="img/linux.svg"> 
@@ -164,6 +175,16 @@
             <span>
               :1st_place_medal:
               :small_red_triangle:
+            </span> 
+            &emsp;
+          <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
+            <span>
+              :3rd_place_medal:
+            </span> 
+            &emsp;
+          <img align="center" title="Arduino" alt="fentanes-arduino" height="50" width="50" src="img/arduino.png">
+            <span>
+              :2nd_place_medal:
             </span> 
             &emsp;
         </td>
