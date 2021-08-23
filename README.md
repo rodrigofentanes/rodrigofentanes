@@ -30,11 +30,9 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png">
-          :1st_place_medal: :medal_military:
+          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> <span>:1st_place_medal: &nbsp; :medal_military:</span>  
           &emsp;
-          <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png">
-          :2st_place_medal:
+          <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> <span>:2nd_place_medal:</span>
           &emsp;
         </td>
       </tr>
