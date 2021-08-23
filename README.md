@@ -3,7 +3,7 @@
 - :artificial_satellite: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
 - :rocket: Conheça [meus trabalhos/projetos](#)
 - :flying_saucer: Explore [meu site pessoal](#)
-- :man_technologist: Estudando Java
+- :seedling: Estudando Java
 
 <br>
 
