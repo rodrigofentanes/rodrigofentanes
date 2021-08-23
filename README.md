@@ -15,7 +15,7 @@
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
 | Especialista | :medal_military: | Tenho domínio sobre a tecnologia. |
-| Consitente | :small_red_triangle: | Está sempre em uso e fresco na memória. |
+| Objetivo | :star: | É meu objetivo enquanto profissional. |
 
 <div align="left" width=100% >
   <table>
@@ -34,7 +34,7 @@
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png"> 
           <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
@@ -45,7 +45,7 @@
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
             <span>
               :2nd_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Python" alt="fentanes-python" height="50" width="50" src="img/python.png">
@@ -72,24 +72,23 @@
           <img align="center" title="HTML5" alt="fentanes-HTML" height="50" width="50" src="img/html5.svg">
             <span>
               :1st_place_medal:
-              :small_red_triangle:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
             <span>
               :1st_place_medal:
-              :small_red_triangle:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
             <span>
               :1st_place_medal:
+              :star:
             </span>
         </td>
       </tr>
@@ -101,7 +100,7 @@
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="MySQL" alt="fentanes-MySQL" height="50" width="50" src="img/mysql.png">
@@ -128,6 +127,7 @@
           <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
             <span>
               :2nd_place_medal:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
@@ -164,13 +164,13 @@
           <img align="center" title="Linux" alt="fentanes-linux" height="50" width="50" src="img/linux.svg"> 
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Arduino" alt="fentanes-arduino" height="50" width="50" src="img/arduino.png">
@@ -181,6 +181,7 @@
           <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
             <span>
               :3rd_place_medal:
+              :star:
             </span>
         </td>
       </tr>
@@ -192,25 +193,12 @@
           <img align="center" title="Git" alt="fentanes-git" height="50" width="50" src="img/git.svg"> 
             <span>
               :1st_place_medal:
-              :small_red_triangle:
+              :star:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="GitHub" alt="fentanes-github" height="50" width="50" src="img/github.png">
             <span>
               :1st_place_medal:
-              :small_red_triangle:
-            </span>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          CRM
-        </td>
-        <td>
-          <img align="center" title="Salesforce" alt="fentanes-salesforce" height="50" width="50" src="img/salesforce.svg">
-            <span>
-              :2nd_place_medal:
-              :small_red_triangle:
             </span>
         </td>
       </tr>
