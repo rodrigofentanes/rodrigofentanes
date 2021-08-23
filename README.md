@@ -30,10 +30,10 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> <span>:1st_place_medal: &nbsp; :medal_military:</span>  
-          &emsp;
-          <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> <span>:2nd_place_medal:</span>
-          &emsp;
+          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
+          <span>:2nd_place_medal: :medal_military:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -42,13 +42,13 @@
         </td>
         <td>
           <img align="center" title="HTML5" alt="fentanes-HTML" height="50" width="50" src="img/html5.svg">
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
-          &emsp;
+          <span>:1st_place_medal:</span> &emsp;
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
-          &emsp;
+          <span>:1st_place_medal:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -57,7 +57,7 @@
         </td>
         <td>
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
-          &emsp;
+          <span>:1st_place_medal:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -66,9 +66,9 @@
         </td>
         <td>
           <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="50" width="50" src="img/bootstrap.svg">
-          &emsp;
+          <span>:1st_place_medal:</span> &emsp;
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
-          &emsp;
+          <span>:2nd_place_medal:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -77,9 +77,9 @@
         </td>
         <td>
           <img align="center" title="Linux" alt="fentanes-linux" height="50" width="50" src="img/linux.svg"> 
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -88,9 +88,9 @@
         </td>
         <td>
           <img align="center" title="Git" alt="fentanes-git" height="50" width="50" src="img/git.svg"> 
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
           <img align="center" title="GitHub" alt="fentanes-github" height="50" width="50" src="img/github.png">
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
         </td>
       </tr>
       <tr>
@@ -99,7 +99,7 @@
         </td>
         <td>
           <img align="center" title="Salesforce" alt="fentanes-salesforce" height="50" width="50" src="img/salesforce.svg">
-          &emsp;
+          <span>:1st_place_medal: :medal_military:</span> &emsp;
         </td>
       </tr>
 <!--       <tr>
