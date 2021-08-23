@@ -31,7 +31,8 @@
         </td>
         <td>
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
-          <span>:1st_place_medal: :large_blue_diamond:</span> &emsp;
+          <span>:1st_place_medal: :large_blue_diamond:</span> 
+          &emsp; :black_small_square: &emsp;
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
           <span>:2nd_place_medal: :large_blue_diamond:</span> &emsp;
         </td>
