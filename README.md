@@ -14,6 +14,7 @@
 | Iniciante | :3rd_place_medal: | Já tive contato em algum momento mas não me aprofundei. |
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
+| Especialista | :medal_military: | Tenho domínio total sobre a tecnologia. |
 | Consitente | :small_red_triangle: | Esta sempre em uso e fresco na memória. |
 
 <div align="left" width=100% >
@@ -21,7 +22,7 @@
     <thead>
       <tr>
         <th>Escopo</th>
-        <th>:medal_military: Tecnologia & Nível</th>
+        <th>Tecnologia & Nível</th>
       </tr>
     </thead>
     <tbody>
