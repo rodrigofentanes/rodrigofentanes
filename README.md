@@ -61,8 +61,7 @@
           <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
             <span>
               :3rd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -91,8 +90,7 @@
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
             <span>
               :1st_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -114,8 +112,7 @@
           <img align="center" title="SqlServer" alt="fentanes-SqlServer" height="50" width="50" src="img/sqlserver.png">
             <span>
               :3rd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -156,8 +153,7 @@
           <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
             <span>
               :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -185,8 +181,7 @@
           <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
             <span>
               :3rd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -204,8 +199,7 @@
             <span>
               :1st_place_medal:
               :small_red_triangle:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
       <tr>
@@ -217,8 +211,7 @@
             <span>
               :2nd_place_medal:
               :small_red_triangle:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
+            </span>
         </td>
       </tr>
     </tbody>
