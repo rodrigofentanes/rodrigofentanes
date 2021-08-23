@@ -9,7 +9,7 @@
 
 ## :heartbeat: Minhas habilidades 
 
-| Nível | Marcador | Descrição |
+| Nível | :medal_sports: Marcador | Descrição |
 | :-: | :-: | :- |
 | Iniciante | :3rd_place_medal: | Já tive contato em algum momento mas não me aprofundei. |
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
