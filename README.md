@@ -21,8 +21,8 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> 
-          <img align="center" title="Java" alt="fentanes-Java" height="60" width="60" src="https://i.stack.imgur.com/Lqh07.png">
+          <img align="center" title="JavaScript" alt="fentanes-Js" height="60" width="60" src="img/js.png"> 
+          <img align="center" title="Java" alt="fentanes-Java" height="60" width="60" src="img/java.png">
         </td>
       </tr>
       <tr>
@@ -30,10 +30,10 @@
           Outras linguagens
         </td>
         <td>
-          <img align="center" title="HTML5" alt="fentanes-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-          <img align="center" title="CSS3" alt="fentanes-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-          <img align="center" title="Markdown" alt="fentanes-markdown" height="60" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png">
-          <img align="center" title="RegEx" alt="fentanes-regex" height="60" width="60" src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig=s180">
+          <img align="center" title="HTML5" alt="fentanes-HTML" height="60" width="60" src="img/html5.svg"> 
+          <img align="center" title="CSS3" alt="fentanes-CSS" height="60" width="60" src="img/css3.svg"> 
+          <img align="center" title="Markdown" alt="fentanes-markdown" height="60" width="60" src="img/markdown.png">
+          <img align="center" title="RegEx" alt="fentanes-regex" height="60" width="60" src="img/regex.png">
         </td>
       </tr>
       <tr>
@@ -41,7 +41,7 @@
           Banco de dados
         </td>
         <td>
-          <img align="center" title="SQL" alt="fentanes-SQL" height="60" width="60" src="https://www.ricardoarrigoni.com/wp-content/uploads/2014/01/SQL.png">
+          <img align="center" title="SQL" alt="fentanes-SQL" height="60" width="60" src="img/sql.png">
         </td>
       </tr>
       <tr>
@@ -49,8 +49,8 @@
           Frameworks
         </td>
         <td>
-          <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-          <img align="center" title="React" alt="fentanes-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+          <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="60" width="60" src="img/bootstrap.svg">
+          <img align="center" title="React" alt="fentanes-React" height="60" width="60" src="img/react.svg">
         </td>
       </tr>
       <tr>
@@ -58,8 +58,8 @@
           Sistemas operacionais
         </td>
         <td>
-          <img align="center" title="Linux" alt="fentanes-linux" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
-          <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+          <img align="center" title="Linux" alt="fentanes-linux" height="60" width="60" src="img/linux.svg"> 
+          <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="60" width="60" src="img/ubuntu.svg">
         </td>
       </tr>
       <tr>
@@ -67,8 +67,8 @@
           Controle de versão
         </td>
         <td>
-          <img align="center" title="Git" alt="fentanes-git" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-          <img align="center" title="GitHub" alt="fentanes-github" height="60" width="60" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+          <img align="center" title="Git" alt="fentanes-git" height="60" width="60" src="img/git.svg"> 
+          <img align="center" title="GitHub" alt="fentanes-github" height="60" width="60" src="img/github.png">
         </td>
       </tr>
       <tr>
@@ -76,7 +76,7 @@
           CRM
         </td>
         <td>
-          <img align="center" title="Salesforce" alt="fentanes-salesforce" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+          <img align="center" title="Salesforce" alt="fentanes-salesforce" height="60" width="60" src="img/salesforce.svg">
         </td>
       </tr>
 <!--       <tr>
