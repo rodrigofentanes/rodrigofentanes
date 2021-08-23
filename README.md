@@ -14,14 +14,14 @@
 | Iniciante | :3rd_place_medal: | Já tive contato em algum momento mas não me aprofundei. |
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
-| Consitente | :medal_military: | Esta sempre em uso e fresco na memória. |
+| Consitente | :small_blue_diamond: | Esta sempre em uso e fresco na memória. |
 
 <div align="left" width=100% >
   <table>
     <thead>
       <tr>
         <th>Escopo</th>
-        <th>:trophy: Tecnologia & Nível</th>
+        <th>:medal_military: Tecnologia & Nível</th>
       </tr>
     </thead>
     <tbody>
@@ -31,9 +31,9 @@
         </td>
         <td>
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>:1st_place_medal: :small_blue_diamond:</span> &emsp;
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
-          <span>:2nd_place_medal: :medal_military:</span> &emsp;
+          <span>:2nd_place_medal: :small_blue_diamond:</span> &emsp;
         </td>
       </tr>
       <tr>
