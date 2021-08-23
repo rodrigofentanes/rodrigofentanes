@@ -128,17 +128,17 @@
               :1st_place_medal:
             </span> 
             &emsp;
+          <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
+            <span>
+              :2nd_place_medal:
+            </span> 
+            &emsp;
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
             <span>
               :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            &emsp;
-          <img align="center" title="Codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
+          <img align="center" title="Django" alt="fentanes-django" height="50" width="50" src="img/django.png">
             <span>
               :2nd_place_medal:
             </span> 
@@ -148,12 +148,12 @@
               :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
+          <img align="center" title="Codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
             <span>
               :2nd_place_medal:
             </span> 
             &emsp;
-          <img align="center" title="Django" alt="fentanes-django" height="50" width="50" src="img/django.png">
+          <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
             <span>
               :2nd_place_medal:
             </span> 
