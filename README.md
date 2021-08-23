@@ -1,7 +1,9 @@
-# :wave: Olá, eu sou Rodrigo!
+# :man_astronaut: Olá :wave: eu sou Rodrigo!
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
-- :owl: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
-- :seedling: Estou me aprofundando em Java
+- :artificial_satellite: O [meu conhecimento](https://github.com/rodrigofentanes/PESSOAL-Conhecimento#meu-conhecimento) está em constante atualização.
+- :rocket: Conheça [meus trabalhos/projetos](#)
+- :flying_saucer: Explore [meu site pessoal](#)
+- :man_technologist: Estudando Java
 
 <br>
 
