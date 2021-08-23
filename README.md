@@ -37,7 +37,11 @@
           </span> 
           &emsp;
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
-          <span>:2nd_place_medal: :small_red_triangle:</span> 
+          <span>
+            :2nd_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -46,13 +50,27 @@
         </td>
         <td>
           <img align="center" title="HTML5" alt="fentanes-HTML" height="50" width="50" src="img/html5.svg">
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
-          <span>:1st_place_medal:</span> &emsp;
+          <span>
+            :1st_place_medal:
+          </span> 
+          &emsp;
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
-          <span>:1st_place_medal:</span> &emsp;
+          <span>
+            :1st_place_medal:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -61,7 +79,11 @@
         </td>
         <td>
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
-          <span>:1st_place_medal:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -70,9 +92,15 @@
         </td>
         <td>
           <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="50" width="50" src="img/bootstrap.svg">
-          <span>:1st_place_medal:</span> &emsp;
+          <span>
+            :1st_place_medal:
+          </span> 
+          &emsp;
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
-          <span>:2nd_place_medal:</span> &emsp;
+          <span>
+            :2nd_place_medal:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -81,9 +109,17 @@
         </td>
         <td>
           <img align="center" title="Linux" alt="fentanes-linux" height="50" width="50" src="img/linux.svg"> 
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -92,9 +128,17 @@
         </td>
         <td>
           <img align="center" title="Git" alt="fentanes-git" height="50" width="50" src="img/git.svg"> 
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
           <img align="center" title="GitHub" alt="fentanes-github" height="50" width="50" src="img/github.png">
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :1st_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
         </td>
       </tr>
       <tr>
@@ -103,7 +147,11 @@
         </td>
         <td>
           <img align="center" title="Salesforce" alt="fentanes-salesforce" height="50" width="50" src="img/salesforce.svg">
-          <span>:1st_place_medal: :medal_military:</span> &emsp;
+          <span>
+            :2nd_place_medal:
+            :small_red_triangle:
+          </span> 
+          &emsp;
         </td>
       </tr>
 <!--       <tr>
