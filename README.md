@@ -36,33 +36,33 @@
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png"> 
           <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
             <span>
               :1st_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
             <span>
               :2nd_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Python" alt="fentanes-python" height="50" width="50" src="img/python.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Php" alt="fentanes-php" height="50" width="50" src="img/php.svg">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
             <span>
               :3rd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -75,24 +75,24 @@
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="CSS3" alt="fentanes-CSS" height="50" width="50" src="img/css3.svg"> 
             <span>
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Markdown" alt="fentanes-markdown" height="50" width="50" src="img/markdown.png">
             <span>
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
             <span>
               :1st_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -105,17 +105,17 @@
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="MySQL" alt="fentanes-MySQL" height="50" width="50" src="img/mysql.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="SqlServer" alt="fentanes-SqlServer" height="50" width="50" src="img/sqlserver.png">
             <span>
               :3rd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -127,37 +127,37 @@
             <span>
               :1st_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Django" alt="fentanes-django" height="50" width="50" src="img/django.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Laravel" alt="fentanes-laravel" height="50" width="50" src="img/laravel.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -170,23 +170,23 @@
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
             <span>
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Arduino" alt="fentanes-arduino" height="50" width="50" src="img/arduino.png">
             <span>
               :2nd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
             <span>
               :3rd_place_medal:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -199,13 +199,13 @@
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="GitHub" alt="fentanes-github" height="50" width="50" src="img/github.png">
             <span>
               :1st_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
       <tr>
@@ -218,7 +218,7 @@
               :2nd_place_medal:
               :small_red_triangle:
             </span> 
-            <img align="center" height="70" width="50" src="img/bar.png"> 
+            <img align="center" height="70" width="25" src="img/bar.png">
         </td>
       </tr>
     </tbody>
