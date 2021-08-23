@@ -11,17 +11,17 @@
 
 | Nível | Marcador | Descrição |
 | :-: | :-: | :- |
-| Iniciante | :small_orange_diamond: | Já tive contato em algum momento mas não me aprofundei. |
-| Intermediário | :small_red_triangle: | Me aprofundei mas nunca desenvolvi proficiência. |
-| Avançado | :small_blue_diamond: | Alcancei proficiência em algum momento. |
-| Consitente | :large_blue_diamond: | Sempre uso e está fresco na memória. |
+| Iniciante | :3rd_place_medal: | Já tive contato em algum momento mas não me aprofundei. |
+| Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
+| Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
+| Consitente | :medal_military: | Esta sempre em uso e fresco na memória. |
 
 <div align="left" width=100% >
   <table>
     <thead>
       <tr>
         <th>Escopo</th>
-        <th>:medal_military: Emblemas</th>
+        <th>:trophy: Tecnologia & Nível</th>
       </tr>
     </thead>
     <tbody>
@@ -31,8 +31,11 @@
         </td>
         <td>
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png">
+          :1st_place_medal: :medal_military:
           &emsp;
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png">
+          :2st_place_medal:
+          &emsp;
         </td>
       </tr>
       <tr>
