@@ -37,20 +37,15 @@
               :small_red_triangle:
             </span> 
             &emsp;
+          <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
+            <span>
+              :1st_place_medal:
+            </span> 
+            &emsp;
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
             <span>
               :2nd_place_medal:
               :small_red_triangle:
-            </span> 
-            &emsp;
-          <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
-            <span>
-              :3rd_place_medal:
-            </span> 
-            &emsp;
-          <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
-            <span>
-              :1st_place_medal:
             </span> 
             &emsp;
           <img align="center" title="Python" alt="fentanes-python" height="50" width="50" src="img/python.png">
@@ -61,6 +56,11 @@
           <img align="center" title="Php" alt="fentanes-php" height="50" width="50" src="img/php.svg">
             <span>
               :2nd_place_medal:
+            </span> 
+            &emsp;
+          <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
+            <span>
+              :3rd_place_medal:
             </span> 
             &emsp;
         </td>
@@ -177,14 +177,14 @@
               :small_red_triangle:
             </span> 
             &emsp;
-          <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
-            <span>
-              :3rd_place_medal:
-            </span> 
-            &emsp;
           <img align="center" title="Arduino" alt="fentanes-arduino" height="50" width="50" src="img/arduino.png">
             <span>
               :2nd_place_medal:
+            </span> 
+            &emsp;
+          <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
+            <span>
+              :3rd_place_medal:
             </span> 
             &emsp;
         </td>
@@ -221,14 +221,6 @@
             &emsp;
         </td>
       </tr>
-<!--       <tr>
-        <td>
-          HABILIDADE
-        </td>
-        <td>
-          <img align="center" alt="fentanes-NOMEDOEMBLEMA" height="60" width="60" src="LINK">
-        </td>
-      </tr> -->
     </tbody>
   </table>
 </div>
