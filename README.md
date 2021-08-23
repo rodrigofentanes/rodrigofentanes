@@ -15,7 +15,7 @@
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
 | Especialista | :medal_military: | Tenho domínio sobre a tecnologia. |
-| Objetivo | :dart: | É meu objetivo enquanto profissional. |
+| Objetivo | :dart: | É um objetivo profissional. |
 
 <div align="left" width=100% >
   <table>
