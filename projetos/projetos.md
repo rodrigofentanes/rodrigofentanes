@@ -5,7 +5,7 @@
 Espaço para organizar e descrever meus projetos. 
 
 <hr> <!-- ------------------------------------------------ -->
-<br>
+
 <br>
 
 # A

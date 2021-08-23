@@ -31,7 +31,7 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
+          <img align="center" title="JavaScript"+:dart: alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
             <span>
               :1st_place_medal:
               :dart:
