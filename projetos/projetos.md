@@ -17,8 +17,10 @@ Espaço para organizar e descrever meus projetos.
 | Js | JavaScript |
 | Sb | Spring boot |
 | Rct | React |
+| Rcn | React native |
 | Mv | Maven |
 | Gr | Gradle |
+| Sf | Salesforce |
 
 </div>
 
@@ -33,75 +35,15 @@ Espaço para organizar e descrever meus projetos.
     -   Tecnologia em foco: *Spring boot* (**Sb**)
     -   Número do projeto: *001* (**1º projeto**)
     -   Nome do projeto: *NomeDoProjeto* (**NomeDoProjeto**)
-
-2. **SlcNomeDaEmpresa-NomeDoProjeto**
+2. **SlcJsRct-NomeDaEmpresa-NomeDoProjeto**
     -   Grupo: *Seleção de emprego* (**Slc**)
+    -   Linguagem em foco: *JavaScript* (**Js**)
+    -   Tecnologia em foco: *React* (**Rct**)
     -   Empresa: *NomeDaEmpresa* (**NomeDaEmpresa**)
     -   Nome do projeto: *NomeDoProjeto* (**NomeDoProjeto**)
 
-<hr> <!-- ------------------------------------------------ -->
-
-<br>
 <br>
 
-# Java
+# Clique abaixo para acessar meus repositórios
+## :notebook: [Repositórios](https://github.com/rodrigofentanes?tab=repositories&q=&type=&language=&sort=name)
 
-<details>
-    <summary>
-        Testando / Praticando
-    </summary>
-
--   []()
-
-</details>
-
-<details>
-    <summary>
-        Seleções de emprego
-    </summary>
-
--   []()
-
-</details>
-
-<details>
-    <summary>
-        Profissional
-    </summary>
-
--   []()
-
-</details>
-
-<hr> <!-- ------------------------------------------------ -->
-<br>
-<br>
-
-# JavaScript
-
-<details>
-    <summary>
-        Testando / Praticando
-    </summary>
-
--   []()
-
-</details>
-
-<details>
-    <summary>
-        Seleções de emprego
-    </summary>
-
--   []()
-
-</details>
-
-<details>
-    <summary>
-        Profissional
-    </summary>
-
--   []()
-
-</details>

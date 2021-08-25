@@ -1,9 +1,9 @@
 # :man_astronaut: Olá :wave: eu sou Rodrigo!
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :artificial_satellite: O [meu conhecimento](https://github.com/rodrigofentanes/MeuConhecimento#back-pagina-inicial) está em constante atualização.
-- :rocket: Conheça [meus projetos](projetos/projetos.md#back-pagina-inicial)
-- :flying_saucer: Explore [meu site pessoal](#)
-- :seedling: Estudando Java
+- :rocket: Conheça a [padronização](projetos/projetos.md#back-pagina-inicial) dos projetos armazenados no meu repositório.
+- :flying_saucer: Explore [meu site pessoal](#).
+- :seedling: Estudando Java.
 
 <br>
 
