@@ -36,7 +36,6 @@
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
             <span>
               :2nd_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
         </td>
@@ -64,7 +63,6 @@
           <img align="center" title="RegEx" alt="fentanes-regex" height="50" width="50" src="img/regex.png">
             <span>
               :1st_place_medal:
-              :dart:
             </span>
         </td>
       </tr>
@@ -76,7 +74,6 @@
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
             <span>
               :1st_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="MySQL" alt="fentanes-MySQL" height="50" width="50" src="img/mysql.png">
@@ -103,7 +100,6 @@
           <img align="center" title="Springboot" alt="fentanes-springboot" height="50" width="50" src="img/springboot.png">
             <span>
               :2nd_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="React" alt="fentanes-React" height="50" width="50" src="img/react.svg">
@@ -121,13 +117,11 @@
           <img align="center" title="Linux" alt="fentanes-linux" height="50" width="50" src="img/linux.svg"> 
             <span>
               :1st_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
             <span>
               :1st_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
         </td>
@@ -140,7 +134,6 @@
           <img align="center" title="Git" alt="fentanes-git" height="50" width="50" src="img/git.svg"> 
             <span>
               :1st_place_medal:
-              :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="GitHub" alt="fentanes-github" height="50" width="50" src="img/github.png">
@@ -155,7 +148,7 @@
 
 <br>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+# :chart_with_upwards_trend: Minhas estatísticas
 
 <div align="left">
   <a href="https://github.com/rodrigofentanes?tab=repositories">
@@ -165,14 +158,7 @@
 </div>
 
 <br>
-  
-## Conheça-me melhor:
 
-- :four_leaf_clover: Amo minha família e programas caseiros são sempre bem vindos!!
-- :earth_americas: Quando saio, gosto de turistar. Dai conhecer lugares novos, pontos turísticos e culinária local, nem que seja em minha própria cidade, são programas perfeitos para os momentos de lazer!
-- :telescope: Me considero um explorador, amo aprender/conhecer coisas novas!
-- :weight_lifting_man: Um dia só vira um "DIA" mesmo quando eu pratico alguma atividade física.
-- :construction_worker: Já fui tatuador, barman, modelo, atendente de lan house, vendedor de loja, caixa de loja, vendedor de salgado... Essa lista é longa mas parou de aumentar quando comecei a programar!
 - Siga-me nas redes sociais: 
 
 <div align="center">
