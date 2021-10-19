@@ -161,7 +161,7 @@
 
 <br>
 
-Redes sociais:
+## Redes sociais:
 
 <div align="center">
   <a href="https://www.instagram.com/rodrigofentaness"  title="Instagram" target="_blank">
