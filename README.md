@@ -5,6 +5,8 @@
 - :flying_saucer: Explore [meu site pessoal](#).
 - :seedling: Estudando Java.
 
+<br>
+
 # :star: Minhas habilidades 
 
 | Nível | Marcador | Descrição |
