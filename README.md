@@ -159,6 +159,10 @@
   </a>
 </div>
 
+<br>
+
+Redes sociais:
+
 <div align="center">
   <a href="https://www.instagram.com/rodrigofentaness"  title="Instagram" target="_blank">
     <img src="img/instagram.svg" height="30" target="_blank">
