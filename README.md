@@ -15,7 +15,6 @@
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
 | Especialista | :medal_military: | Tenho domínio sobre a tecnologia. |
-| Objetivo | :dart: | É um objetivo profissional. |
 
 <div align="left" width=100% >
   <table>
@@ -34,12 +33,6 @@
           <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
             <span>
               :1st_place_medal:
-              :dart:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png"> 
-          <img align="center" title="C++" alt="fentanes-c++" height="50" width="50" src="img/c++.png">
-            <span>
-              :1st_place_medal:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
@@ -48,20 +41,6 @@
               :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Python" alt="fentanes-python" height="50" width="50" src="img/python.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Php" alt="fentanes-php" height="50" width="50" src="img/php.svg">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Ruby" alt="fentanes-ruby" height="50" width="50" src="img/ruby.png">
-            <span>
-              :3rd_place_medal:
-            </span>
         </td>
       </tr>
       <tr>
