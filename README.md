@@ -148,7 +148,7 @@
 
 <br>
 
-# :chart_with_upwards_trend: Minhas estatísticas
+# :chart_with_upwards_trend: Minhas informações
 
 <div align="left">
   <a href="https://github.com/rodrigofentanes?tab=repositories">
@@ -156,10 +156,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-<br>
-
-- Siga-me nas redes sociais: 
 
 <div align="center">
   <a href="https://www.instagram.com/rodrigofentaness"  title="Instagram" target="_blank">
