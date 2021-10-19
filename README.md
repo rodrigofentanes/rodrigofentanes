@@ -1,11 +1,11 @@
-# :man_astronaut: Olá :wave: eu sou Rodrigo!
+# :wave: Olá, eu sou Rodrigo!
 - :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
 - :artificial_satellite: O [meu conhecimento](https://github.com/rodrigofentanes/MeuConhecimento#back-pagina-inicial) está em constante atualização.
 - :rocket: Conheça a [padronização](projetos/projetos.md#back-pagina-inicial) dos projetos armazenados no meu repositório.
 - :flying_saucer: Explore [meu site pessoal](#).
 - :seedling: Estudando Java.
 
-# :heartbeat: Minhas habilidades 
+# :star: Minhas habilidades 
 
 | Nível | Marcador | Descrição |
 | :-: | :-: | :- |
@@ -130,16 +130,6 @@
               :dart:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Arduino" alt="fentanes-arduino" height="50" width="50" src="img/arduino.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Docker" alt="fentanes-docker" height="50" width="50" src="img/docker.png">
-            <span>
-              :3rd_place_medal:
-              :dart:
-            </span>
         </td>
       </tr>
       <tr>
