@@ -5,7 +5,7 @@
 - :flying_saucer: Explore [meu site pessoal](#).
 - :seedling: Estudando Java.
 
-## :heartbeat: Minhas habilidades 
+# :heartbeat: Minhas habilidades 
 
 | Nível | Marcador | Descrição |
 | :-: | :-: | :- |
@@ -111,25 +111,6 @@
               :2nd_place_medal:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Django" alt="fentanes-django" height="50" width="50" src="img/django.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Laravel" alt="fentanes-laravel" height="50" width="50" src="img/laravel.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Codeigniter" alt="fentanes-codeigniter" height="50" width="50" src="img/codeigniter.png">
-            <span>
-              :2nd_place_medal:
-            </span> 
-            <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="Rails" alt="fentanes-rails" height="50" width="50" src="img/rails.png">
-            <span>
-              :2nd_place_medal:
-            </span>
         </td>
       </tr>
       <tr>
