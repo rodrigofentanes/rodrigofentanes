@@ -235,11 +235,3 @@
     <img src="img/linkedin.svg" height="30" target="_blank">
   </a>
 </div>
-  
-##
-
-<div>
-
-  ![Snake animation](https://github.com/rodrigofentanes/rodrigofentanes/blob/output/github-contribution-grid-snake.svg)
-
-</div>
