@@ -178,9 +178,6 @@
 ## Redes sociais:
 
 <div align="center">
-  <a href="https://www.instagram.com/rodrigofentaness"  title="Instagram" target="_blank">
-    <img src="img/instagram.svg" height="30" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/rodrigofentanes/"  title="Linkedin" target="_blank">
     <img src="img/linkedin.svg" height="30" target="_blank">
   </a>
