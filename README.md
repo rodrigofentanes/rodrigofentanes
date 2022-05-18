@@ -34,7 +34,7 @@
               :medal_military:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
-          <img align="center" title="apex" alt="fentanes-apex" height="50" width="50" src="img/apex.png"> 
+          <img align="center" title="JavaScript" alt="fentanes-js" height="50" width="50" src="img/js.png"> 
             <span>
               :1st_place_medal:
             </span> 
