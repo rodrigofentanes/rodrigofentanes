@@ -77,6 +77,11 @@
           Banco de dados
         </td>
         <td>
+          <img align="center" title="SOQL" alt="fentanes-SOQL" height="50" width="50" src="img/soql.png">
+            <span>
+              :medal_military:
+            </span> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
             <span>
               :1st_place_medal:
@@ -98,6 +103,11 @@
           Frameworks
         </td>
         <td>
+          <img align="center" title="Salesforce" alt="fentanes-salesforce" height="50" width="50" src="img/salesforce.svg">
+            <span>
+              🎖️
+            </span> 
+            <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="50" width="50" src="img/bootstrap.svg">
             <span>
               :1st_place_medal:
