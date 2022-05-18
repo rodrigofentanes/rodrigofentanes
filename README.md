@@ -84,7 +84,7 @@
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
             <span>
-              :1st_place_medal:
+              🏆
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="MySQL" alt="fentanes-MySQL" height="50" width="50" src="img/mysql.png">
