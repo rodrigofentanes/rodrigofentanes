@@ -13,7 +13,7 @@
 | Iniciante | :3rd_place_medal: | Já tive contato em algum momento mas não me aprofundei. |
 | Intermediário | :2nd_place_medal: | Me aprofundei mas nunca desenvolvi proficiência. |
 | Avançado | :1st_place_medal: | Alcancei proficiência em algum momento. |
-| Especialista | :medal_military: | Tenho domínio sobre a tecnologia. |
+| Especialista | 🏆 | Tenho domínio sobre a tecnologia. |
 
 <div align="left" width=100% >
   <table>
@@ -31,7 +31,7 @@
         <td>
           <img align="center" title="Apex" alt="fentanes-Apex" height="50" width="50" src="img/apex.png"> 
             <span>
-              :medal_military:
+              🏆
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="JavaScript" alt="fentanes-js" height="50" width="50" src="img/js.png"> 
@@ -79,7 +79,7 @@
         <td>
           <img align="center" title="SOQL" alt="fentanes-SOQL" height="50" width="50" src="img/SOQL.png">
             <span>
-              :medal_military:
+              🏆
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="SQL" alt="fentanes-SQL" height="50" width="50" src="img/sql.png">
@@ -105,7 +105,7 @@
         <td>
           <img align="center" title="Salesforce" alt="fentanes-salesforce" height="50" width="50" src="img/salesforce.svg">
             <span>
-              🎖️
+              🏆
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Bootstrap" alt="fentanes-bootstrap" height="50" width="50" src="img/bootstrap.svg">
