@@ -77,7 +77,7 @@
           Banco de dados
         </td>
         <td>
-          <img align="center" title="SOQL" alt="fentanes-SOQL" height="50" width="50" src="img/soql.png">
+          <img align="center" title="SOQL" alt="fentanes-SOQL" height="50" width="50" src="img/SOQL.png">
             <span>
               :medal_military:
             </span> 
