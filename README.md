@@ -1,9 +1,8 @@
 # :wave: Olá, eu sou Rodrigo!
-- :footprints: Atualmente trabalho com Salesforce e suas tecnologias adjacentes.
+- :footprints: Possuo amplo conhecimento em Salesforce e suas tecnologias adjacentes.
 - :artificial_satellite: O [meu conhecimento](https://github.com/rodrigofentanes/MeuConhecimento#back-pagina-inicial) está em constante atualização.
-- :rocket: Conheça a [padronização](projetos/projetos.md#back-pagina-inicial) dos projetos armazenados no meu repositório.
 - :flying_saucer: Explore [meu site pessoal](#).
-- :seedling: Estudando Java.
+- :seedling: Um eterno estudante de programação.
 
 <br>
 
@@ -30,14 +29,19 @@
           Linguagens de programação
         </td>
         <td>
-          <img align="center" title="JavaScript" alt="fentanes-Js" height="50" width="50" src="img/js.png"> 
+          <img align="center" title="Apex" alt="fentanes-Apex" height="50" width="50" src="img/apex.png"> 
+            <span>
+              :medal_military:
+            </span> 
+            <img align="center" height="70" width="25" src="img/bar.png">
+          <img align="center" title="apex" alt="fentanes-apex" height="50" width="50" src="img/apex.png"> 
             <span>
               :1st_place_medal:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Java" alt="fentanes-Java" height="50" width="50" src="img/java.png"> 
             <span>
-              :2nd_place_medal:
+              :1st_place_medal:
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
         </td>
