@@ -137,7 +137,7 @@
             <img align="center" height="70" width="25" src="img/bar.png">
           <img align="center" title="Ubuntu" alt="fentanes-ubuntu" height="50" width="50" src="img/ubuntu.svg">
             <span>
-              :1st_place_medal:
+              🏆
             </span> 
             <img align="center" height="70" width="25" src="img/bar.png">
         </td>
