@@ -5,7 +5,7 @@
 - ⚡ I have greater experience with object-oriented programming languages ​​such as Apex, Java, C#.
 - 🌱 I have some proficiecy in Javascript.
 - 🔭 I'm also know how to work with PHP, Ruby, HTML, CSS, Git, SQL, NoSQL, SOQL, SOSL, RegEx, Project Patterns, UML, REST and SOAP APIs, Clean Code, Web components.
-- 💥 Lets code!
+- 🚀 Lets code!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
