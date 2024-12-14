@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofentanes&hide=html,scss,stylus,css&theme=algolia&show_icons=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofentanes&hide=html,scss,stylus,css&theme=algolia&show_icons=true&include_all_commits=true"/>
   
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofentanes&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true"/> -->
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/> -->
