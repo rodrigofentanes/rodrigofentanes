@@ -9,7 +9,6 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigofentanes)](https://github.com/anuraghazra/github-readme-stats)
 <img loading="lazy" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigofentanes"/>
 
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofentanes&layout=compact&langs_count=7&theme=dracula"/> -->
