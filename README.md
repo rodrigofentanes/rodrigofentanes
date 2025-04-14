@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
 ## Personal data
-- 👨🏼‍💻 I have extensive knowledge in Apex and its adjacent technologies.
 - ⚡ I have greater experience with object-oriented programming languages ​​such as Apex, Java, C#.
 - 🌱 I have some proficiecy in Javascript.
 - 🔭 I'm also know how to work with PHP, Ruby, HTML, CSS, Git, SQL, NoSQL, SOQL, SOSL, RegEx, Project Patterns, UML, REST and SOAP APIs, Clean Code, Web components.
@@ -9,7 +8,8 @@
 
 <div>
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofentanes&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
 
 </div>
 
